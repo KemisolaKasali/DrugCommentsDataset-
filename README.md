@@ -136,3 +136,6 @@ The main analysis is performed in a Jupyter notebook. Here's an overview of the 
 ## Contributors
 
 Team Blockers
+
+## Presentation
+[View the presentation] (https://github.com/KemisolaKasali/DrugCommentsDataset-/blob/main/Analysis%20of%20the%20Drug%20Comments%20Dataset.pdf)

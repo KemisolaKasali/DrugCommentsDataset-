@@ -103,7 +103,7 @@ nltk.download('stopwords')
 nltk.download('punkt')
 nltk.download('wordnet')
 nltk.download('omw-1.4')
-
+```
 ## Code Structure
 
 The main analysis is performed in a Jupyter notebook. Here's an overview of the key components:

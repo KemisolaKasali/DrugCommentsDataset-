@@ -80,7 +80,7 @@ To run this project:
 1. Clone the repository
 2. Ensure you have Python 3.x installed
 3. Install the required dependencies (see [Dependencies](#dependencies))
-4. Open the Jupyter notebook `DrugCommentsCodeNoErrors.ipynb`
+4. Open the Jupyter notebook [`DrugCommentsCodeNoErrors.ipynb`](https://github.com/KemisolaKasali/DrugCommentsDataset-/blob/main/DrugCommentsCodeNoErrors.ipynb)
 5. Run the cells in order
 
 ## Dependencies

@@ -15,7 +15,6 @@ This project analyzes the FDA's drugComments dataset, which contains over 4,000 
 - [Getting Started](#getting-started)
 - [Dependencies](#dependencies)
 - [Contributors](#contributors)
-- [License](#license)
 
 ## Introduction
 
